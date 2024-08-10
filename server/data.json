@@ -1,0 +1,53 @@
+{
+    "courses": [
+      {
+        "image": "../assets/img/1.jpg",
+        "price": 200,
+        "title": "Pro Swimmers: 5-12 Years",
+        "description": "Contrary to popular belief, lorempium is not simply random desktop",
+        "enrolled": 28,
+        "lessons": 13
+      },
+      {
+        "image": "assets/img/1.jpg",
+        "price": 500.98,
+        "title": "Deep Aqua Aerobics",
+        "description": "Contrary to popular belief, lorempium is not simply random desktop",
+        "enrolled": 32,
+        "lessons": 11
+      },
+      {
+        "image": "assets/img/3.jpg",
+        "price": 300,
+        "title": "Intermediate Swimmer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "enrolled": 41,
+        "lessons": 24
+      },
+      {
+        "image": "assets/img/1.jpg",
+        "price": 740,
+        "title": "Swimming Class For Mini",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "enrolled": 56,
+        "lessons": 23
+      },
+      {
+        "image": "assets/img/3.jpg",
+        "price": 100,
+        "title": "Sea Turtles: 3-4 Years",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "enrolled": 28,
+        "lessons": 11
+      },
+      {
+        "image": "assets/img/3.jpg",
+        "price": 800.99,
+        "title": "Sharks: 4-12 Years",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "enrolled": 32,
+        "lessons": 11
+      }
+    ]
+  }
+  
